@@ -61,7 +61,7 @@ Người dùng có thể gửi/nhận tin nhắn đồng thời mà không cần
 ## 🚀 3. Hình ảnh chức năng
 
 <p align="center">
-  <img src="![Uploading image.png…]()
+  <img src="<img width="1251" height="776" alt="image" src="https://github.com/user-attachments/assets/e31cf7ba-4729-43f6-af6e-cf4d5a5ac4bc" />
 " alt="Ảnh 1" width="800"/>
 </p>
 <p align="center"><em>Hình 1: Đăng nhập</em></p>
