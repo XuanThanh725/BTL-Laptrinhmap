@@ -48,7 +48,7 @@ Với thiết kế này, Chat Room vừa **đơn giản, nhẹ gọn** vừa d�
 ## 🚀 3. Hình ảnh minh họa
 
 <p align="center">
-  <img src="picture/Screenshot 2025-09-16 141353.png" alt="Ảnh 1" width="800"/>
+  <img src="[picture/Screenshot 2025-09-16 141353.png](https://media.discordapp.net/attachments/729165164808634522/1418400171355803688/image.png?ex=68cdfb99&is=68ccaa19&hm=f132a6f8cd314fb4b4e4b84e6963585c36eb1ee666524464888257f4412a463e&=&format=webp&quality=lossless&width=1083&height=680)" alt="Ảnh 1" width="800"/>
 </p>
 <p align="center"><em>Hình 1: Đăng nhập</em></p>
 
