@@ -67,24 +67,17 @@ Người dùng có thể gửi/nhận tin nhắn đồng thời mà không cần
 <p align="center"><em>Hình 1: Đăng nhập</em></p>
 
 <p align="center">
-  <img src="picture/Screenshot 2025-09-16 134828.png" alt="Ảnh 2" width="800"/>
+  <img src="docs/2.png" alt="Ảnh 2" width="800"/>
 </p>
-<p align="center"><em>Hình 2: Giao diện chat client & server</em></p>
 
 <p align="center">
-  <img src="picture/Screenshot 2025-09-16 140817.png" alt="Ảnh 3" width="800"/>
+  <img src="docs/3.png" alt="Ảnh 3" width="800"/>
 </p>
-<p align="center"><em>Hình 3: Cửa sổ chat</em></p>
 
 <p align="center">
-  <img src="picture/Screenshot 2025-09-16 140702.png" alt="Ảnh 4" width="800"/>
+  <img src="docs/4.png" alt="Ảnh 4" width="800"/>
 </p>
-<p align="center"><em>Hình 4: Thông báo khi user thoát</em></p>
 
-<p align="center">
-  <img src="picture/Screenshot 2025-09-16 140708.png" alt="Ảnh 5" width="800"/>
-</p>
-<p align="center"><em>Hình 5: Lịch sử chat</em></p>
 
 
 ---
