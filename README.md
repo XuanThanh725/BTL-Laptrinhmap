@@ -60,9 +60,8 @@ Người dùng có thể gửi/nhận tin nhắn đồng thời mà không cần
 
 ## 🚀 3. Hình ảnh chức năng
 
-<p align="center">
-  <img src="<img width="1251" height="776" alt="image" src="https://github.com/user-attachments/assets/e31cf7ba-4729-43f6-af6e-cf4d5a5ac4bc" />
-" alt="Ảnh 1" width="800"/>
+ <p align="center">
+  <img src="picture/Screenshot 2025-09-16 134828.png" alt="Ảnh 2" width="800"/>
 </p>
 <p align="center"><em>Hình 1: Đăng nhập</em></p>
 
@@ -86,15 +85,6 @@ Người dùng có thể gửi/nhận tin nhắn đồng thời mà không cần
 </p>
 <p align="center"><em>Hình 5: Lịch sử chat</em></p>
 
-<p align="center">
-  <img src="picture/Screenshot 2025-09-16 140754.png" alt="Ảnh 6" width="800"/>
-</p>
-<p align="center"><em>Hình 6: Quyền quản trị của admin</em></p>
-
-<p align="center">
-  <img src="picture/Screenshot 2025-09-16 141219.png" alt="Ảnh 7" width="800"/>
-</p>
-<p align="center"><em>Hình 7: Khi 1 client bị kick</em></p>
 
 ---
 
