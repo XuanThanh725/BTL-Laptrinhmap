@@ -60,6 +60,7 @@ Người dùng có thể gửi/nhận tin nhắn đồng thời mà không cần
 
 ## 🚀 3. Hình ảnh chức năng
 
+
  <p align="center">
   <img src="docs/image.png" alt="Ảnh minh họa" width="800"/>
 </p>
