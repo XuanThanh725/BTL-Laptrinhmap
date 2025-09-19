@@ -1,6 +1,5 @@
-<img width="1257" height="790" alt="image" src="https://github.com/user-attachments/assets/6956ae13-9d46-4551-b5b5-1e66d15af9f9" /><h2 align="center">
-    <a href="https://github.com/XuanThanh725">
-    🎓 Project Network Programming (BTL - Laptrinhmang)
+
+    🎓 Project Network Programming 
     </a>
 </h2>
 
@@ -48,41 +47,25 @@ Với thiết kế này, Chat Room vừa **đơn giản, nhẹ gọn** vừa d�
 ## 🚀 3. Hình ảnh minh họa
 
 <p align="center">
-  <img src="[picture/Screenshot 2025-09-16 141353.png](https://media.discordapp.net/attachments/729165164808634522/1418400171355803688/image.png?ex=68cdfb99&is=68ccaa19&hm=f132a6f8cd314fb4b4e4b84e6963585c36eb1ee666524464888257f4412a463e&=&format=webp&quality=lossless&width=1083&height=680)" alt="Ảnh 1" width="800"/>
+  <img src="picture/login.png" alt="Ảnh 1" width="800"/>
 </p>
-<p align="center"><em>Hình 1: Đăng nhập</em></p>
+<p align="center"><em>Hình 1: Đăng nhập vào hệ thống</em></p>
 
 <p align="center">
-  <img src="[picture/Screenshot 2025-09-16 134828.png](https://media.discordapp.net/attachments/729165164808634522/1418400171355803688/image.png?ex=68cdfb99&is=68ccaa19&hm=f132a6f8cd314fb4b4e4b84e6963585c36eb1ee666524464888257f4412a463e&=&format=webp&quality=lossless&width=1083&height=680)" alt="Ảnh 2" width="800"/>
+  <img src="picture/server_select.png" alt="Ảnh 2" width="800"/>
 </p>
-<p align="center"><em>Hình 2: Giao diện chat</em></p>
+<p align="center"><em>Hình 2: Chọn server và tham gia phòng</em></p>
 
 <p align="center">
-  <img src="picture/Screenshot 2025-09-16 140817.png" alt="Ảnh 3" width="800"/>
+  <img src="picture/multi_clients.png" alt="Ảnh 3" width="800"/>
 </p>
-<p align="center"><em>Hình 3: Tin nhắn giữa server và client</em></p>
+<p align="center"><em>Hình 3: Nhiều client tham gia chat</em></p>
 
 <p align="center">
-  <img src="picture/Screenshot 2025-09-16 140702.png" alt="Ảnh 4" width="800"/>
+  <img src="picture/chat_history.png" alt="Ảnh 4" width="800"/>
 </p>
-<p align="center"><em>Hình 4: Thông báo khi user thoát</em></p>
+<p align="center"><em>Hình 4: Lịch sử chat hiển thị trên giao diện</em></p>
 
-<p align="center">
-  <img src="picture/Screenshot 2025-09-16 140708.png" alt="Ảnh 5" width="800"/>
-</p>
-<p align="center"><em>Hình 5: Lưu lịch sử chat</em></p>
-
-<p align="center">
-  <img src="picture/Screenshot 2025-09-16 140754.png" alt="Ảnh 6" width="800"/>
-</p>
-<p align="center"><em>Hình 6: Quyền quản trị của admin</em></p>
-
-<p align="center">
-  <img src="picture/Screenshot 2025-09-16 141219.png" alt="Ảnh 7" width="800"/>
-</p>
-<p align="center"><em>Hình 7: Kick client</em></p>
-
----
 
 ## 📝 4. Cách cài đặt & chạy
 
