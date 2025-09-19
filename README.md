@@ -64,20 +64,20 @@ Người dùng có thể gửi/nhận tin nhắn đồng thời mà không cần
  <p align="center">
   <img src="docs/image.png" alt="Ảnh minh họa" width="800"/>
 </p>
-<p align="center"><em>Hình 1: Đăng nhập</em></p>
+<p align="center"><em>Hình 1: Đăng nhập và đăng ký</em></p>
 
 <p align="center">
   <img src="docs/2.png" alt="Ảnh 2" width="800"/>
 </p>
-
+<p align="center"><em>Hình 2: Chọn và kết nối đến sever</em></p>
 <p align="center">
   <img src="docs/3.png" alt="Ảnh 3" width="800"/>
 </p>
-
+<p align="center"><em>Hình 3: Giao diễn chat nhóm</em></p>
 <p align="center">
   <img src="docs/4.png" alt="Ảnh 4" width="800"/>
 </p>
-
+<p align="center"><em>Hình 4: Xem lại lịch sử</em></p>
 
 
 ---
